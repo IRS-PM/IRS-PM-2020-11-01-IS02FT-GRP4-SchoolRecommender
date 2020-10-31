@@ -183,6 +183,15 @@ Our project team hopes that with our solution, the students will be able to find
 - APPENDIX OF REPORT
 
 ---
+## SECTION 7 : Miscellaneous
+
+`Refer to Github Folder: Miscellaneous`
+### JiTuoTianXia.xlsx
+- Application data that we crawled from the 'JITUOTIANXIA' website
+### Bupt.xlsx
+- Application data that we crawled from the 'BEIYOUREN' forum
+
+---
 
 **This [Machine Reasoning (MR)](https://www.iss.nus.edu.sg/executive-education/course/detail/machine-reasoning "Machine Reasoning") course is part of the Analytics and Intelligent Systems and Graduate Certificate in [Intelligent Reasoning Systems (IRS)](https://www.iss.nus.edu.sg/stackable-certificate-programmes/intelligent-systems "Intelligent Reasoning Systems") series offered by [NUS-ISS](https://www.iss.nus.edu.sg "Institute of Systems Science, National University of Singapore").**
 
