@@ -1,0 +1,582 @@
+Index,ID,School,Major,GPA,Language,Target School,Target Major,Degree,Result,Intern,Work,Paper,Competition,Exchange,Scholarship,School Name,Apecial Name 
+1,1,4,3,3,4,1,3,MS,0.9,1,0,0,0,0,0,National University of Singapore,industrial and systems engineering
+7,2,4,3,3,4,1,3,MS,1.0,1,0,0,0,0,1,National University of Singapore,Supply Chain Management
+8,3,5,7,2,4,3,7,MS,1.0,0,0,0,0,0,0,Technical University of Munich Asia,Industrial Chemistry
+9,4,6,5,2,2,2,6,MS,1.0,0,0,0,0,0,0,Nanyang Technological University,international political economy
+17,5,2,4,4,2,1,4,MS,0.9,1,0,0,0,0,0,National University of Singapore,Fintech
+18,6,4,3,2,3,1,3,MS,1.0,1,0,0,1,0,0,National University of Singapore,urban planning
+19,7,2,5,2,2,2,5,MS,1.0,0,0,0,0,0,0,Nanyang Technological University,Asian Studies
+21,8,2,3,4,2,1,3,MS,1.0,0,0,0,0,0,0,National University of Singapore,Materials Science
+22,9,4,3,5,4,2,4,MS,1.0,0,0,0,0,0,0,Nanyang Technological University,computer control & automation
+25,10,6,7,4,2,1,2,MS,0.9,0,0,0,0,0,0,National University of Singapore,Quantitative Finance
+27,11,4,4,4,3,2,4,MS,0.9,0,0,0,0,0,0,Nanyang Technological University,Information Systems
+29,12,2,1,3,2,1,1,MS,1.0,0,0,1,0,0,0,Duke-NUS Medical school,Cancer And Cell Biology
+30,13,4,3,3,4,1,4,MS,1.0,0,0,1,0,0,0,National University of Singapore,Biomedical Engineering
+31,14,5,3,4,4,1,3,MS,0.9,0,0,1,1,0,1,National University of Singapore,materials science and engineering
+34,15,5,3,3,3,1,3,MS,1.0,0,0,0,0,0,0,National University of Singapore,safety health environment
+36,16,6,6,3,4,1,7,MS,0.9,0,0,0,0,0,0,National University of Singapore,Mathematics
+38,17,4,7,3,4,1,3,MS,1.0,0,0,1,0,0,0,National University of Singapore,Materials Science and Engineering
+49,18,4,4,3,3,1,4,MS,1.0,0,0,0,0,0,0,Imperial College London,Signal processing
+52,19,4,4,3,4,2,4,MS,1.0,0,0,0,0,0,0,Nanyang Technological University,Computer Science
+53,20,4,7,2,3,1,7,MS,1.0,0,0,1,1,0,1,National University of Singapore,Statistics
+54,21,4,4,5,3,2,4,MS,1.0,0,0,0,0,0,0,Nanyang Technological University,Power Engineering
+55,22,4,4,3,3,2,4,MS,1.0,0,0,0,0,0,0,Nanyang Technological University,Computer Science
+56,23,4,6,3,4,1,6,MS,1.0,1,0,1,0,0,0,National University of Singapore,applied economics
+57,24,4,4,5,3,2,4,MS,1.0,0,0,0,0,0,0,Nanyang Technological University,Information Studies
+58,25,4,6,3,2,1,5,MS,1.0,0,0,0,0,0,0,National University of Singapore,Public policy
+59,26,4,3,5,4,1,3,MS,1.0,0,0,0,0,0,0,National University of Singapore,Mechanical Engineering
+62,27,4,5,3,2,1,5,MS,1.0,0,0,0,1,1,0,National University of Singapore,Intellectual Property Law
+63,28,6,5,4,2,1,5,MS,1.0,1,0,0,1,0,1,National University of Singapore,Corporate and Financial Services Law
+64,29,4,6,1,4,1,6,MS,1.0,0,0,0,1,0,0,National University of Singapore,Quantitative Finance
+70,30,6,7,3,4,1,7,MS,1.0,0,0,0,0,0,0,National University of Singapore,Chemistry for Energy and Enviroment
+83,31,2,3,4,3,1,3,MS,0.9,1,0,0,0,0,0,University College London,Construction Management
+85,32,5,3,3,4,1,3,MS,0.9,0,1,0,1,0,0,National University of Singapore,Mechanical Engineering
+89,33,5,4,3,4,1,4,MS,1.0,0,0,0,0,0,0,National University of Singapore,MComp (Information System)                                    
+90,34,2,7,2,3,1,4,MS,1.0,0,0,0,0,0,0,National University of Singapore,Electrical and Computer Engineering
+91,35,4,4,3,3,1,4,MS,1.0,0,1,0,1,0,1,National University of Singapore,Electrical Engineering
+93,36,4,6,3,3,1,7,MS,1.0,0,0,0,0,0,0,National University of Singapore,financial mathematics
+94,37,6,5,4,2,1,5,MS,1.0,0,0,0,0,0,0,National University of Singapore,Southeast Asian studies
+97,38,4,5,3,3,1,5,MS,1.0,0,0,0,0,0,0,National University of Singapore,Common Law
+100,39,5,4,2,3,1,4,MS,1.0,0,0,0,0,0,0,National University of Singapore,Electrical and Electronics Engineering
+103,40,4,3,4,4,2,3,MS,0.9,0,0,0,0,0,0,Nanyang Technological University,Mechanical Engineering
+104,41,4,6,3,1,2,6,MS,1.0,0,0,0,0,0,0,Nanyang Technological University,Applied Economics
+105,42,2,5,3,4,2,6,MS,1.0,1,0,0,1,0,0,Nanyang Technological University,Applied Economics
+108,43,4,4,5,4,2,6,MS,1.0,0,0,0,0,0,0,Nanyang Technological University,applied economics
+114,44,2,4,2,1,1,4,MS,1.0,0,0,0,0,1,0,Imperial College London,Artificial Intelligence
+117,45,2,4,5,4,5,4,MS,1.0,0,0,1,0,0,0,Singapore Management University,Computer Science
+118,46,4,7,2,3,1,7,MS,1.0,0,0,0,0,0,0,National University of Singapore,Mathematics
+121,47,4,3,2,2,1,4,MS,1.0,0,0,1,1,0,1,National University of Singapore,Computer Control & Automation
+125,48,4,6,2,2,1,2,MS,1.0,0,0,0,0,0,0,National University of Singapore,Enterprise Business Analytics
+126,49,5,3,2,3,1,3,MS,1.0,0,0,0,0,0,0,National University of Singapore,Logistics and Supply Chain Management
+128,50,1,7,3,2,1,7,MS,1.0,0,0,0,0,0,0,National University of Singapore,Chemical Engineering
+129,51,4,3,3,4,2,3,MS,1.0,0,0,0,0,0,0,Nanyang Technological University,Civil Engineering
+130,52,1,3,4,4,1,3,MS,1.0,0,1,0,1,0,0,National University of Singapore,Civil Engineering
+131,53,4,4,3,3,1,4,MS,1.0,0,0,1,1,0,0,National University of Singapore,Electrical and Electronics Engineering
+133,54,5,3,3,1,1,2,MS,1.0,0,0,0,0,0,0,National University of Singapore,Enterprise Business Analytics
+142,55,4,3,2,3,1,2,MS,0.9,1,0,0,1,0,0,National University of Singapore,Integrated Building Systems
+144,56,5,4,3,4,2,4,MS,1.0,1,0,0,1,0,1,Nanyang Technological University,Signal Processing
+154,57,4,5,2,2,1,5,MS,1.0,1,0,0,1,0,0,University College London,Law
+159,58,4,4,4,2,2,4,MS,0.9,0,0,0,0,0,0,Nanyang Technological University,Signal Processing
+160,59,4,5,2,3,1,5,MS,1.0,0,0,0,0,0,0,National University of Singapore,International Affairs
+162,60,2,4,3,3,2,4,MS,0.9,0,0,0,0,0,0,Nanyang Technological University,Information System
+165,61,4,5,2,2,1,5,MS,1.0,0,0,0,0,0,0,National University of Singapore,English Language and Linguistics
+166,62,6,5,5,2,1,5,MS,1.0,0,0,0,0,0,0,National University of Singapore,English Language Studies
+168,63,6,5,4,4,5,6,MS,1.0,0,0,0,0,0,0,Singapore Management University,Applied Economics
+169,64,4,3,3,2,1,3,MS,1.0,0,0,0,0,0,0,National University of Singapore,Mechanical Engineering
+170,65,6,4,3,2,5,2,MS,1.0,0,0,0,0,0,0,Singapore Management University,Marketing
+171,66,4,7,4,4,1,7,MS,1.0,0,0,0,0,0,0,National University of Singapore,Chemical Engineering
+176,67,4,7,3,4,1,3,MS,1.0,0,0,0,0,0,0,National University of Singapore,Civil Engineering
+177,68,6,4,2,3,1,2,MS,1.0,0,0,0,0,0,0,National University of Singapore,Enterprise Business Analytics
+179,69,4,3,3,4,1,3,MS,1.0,0,1,0,0,0,0,National University of Singapore,Real Estate
+184,70,6,5,4,3,2,2,MS,1.0,0,1,0,0,0,0,Nanyang Technological University,Asset and Wealth Management
+186,71,5,3,3,2,1,4,MS,1.0,1,0,0,0,0,0,National University of Singapore,Computer Control and Automation
+187,72,2,7,4,3,1,2,MS,1.0,0,0,0,0,0,0,National University of Singapore,Department of Industrial Systems Engineering & Management
+188,73,6,6,3,3,2,8,MS,1.0,0,0,0,0,0,0,Nanyang Technological University,Educational Psychology
+189,74,4,5,4,4,2,5,MS,0.9,0,0,0,0,0,0,Nanyang Technological University,China and Global Governance
+190,75,4,5,3,3,2,5,MS,1.0,0,0,0,0,0,0,Nanyang Technological University,China and Global Governance
+191,76,2,2,5,1,2,5,MS,1.0,1,0,0,0,0,0,Nanyang Technological University,International Political Economy
+194,77,4,6,4,3,2,5,MS,1.0,0,0,0,0,0,0,Nanyang Technological University,Asian Studies
+195,78,2,7,4,4,1,4,MS,1.0,1,0,0,0,0,0,National University of Singapore,Data science
+197,79,4,5,4,3,2,5,MS,1.0,0,0,0,0,0,0,Nanyang Technological University,Master of education (English)
+199,80,2,3,3,4,2,3,MS,1.0,0,0,0,0,0,0,Nanyang Technological University,Logistics and Supply Chain Management
+200,81,5,3,5,3,2,3,MS,1.0,0,0,0,0,0,0,Nanyang Technological University,Logistics and Supply Chain Management
+201,82,5,5,4,3,2,8,MS,1.0,0,0,1,0,1,0,Nanyang Technological University,communication studies
+202,83,4,4,5,3,2,4,MS,1.0,0,0,0,0,0,0,Nanyang Technological University,information systems
+207,84,5,2,2,3,1,6,MS,1.0,0,0,0,0,0,0,National University of Singapore,Economics and Econometrics
+211,85,2,4,3,3,2,4,MS,0.9,0,0,0,0,0,0,Nanyang Technological University,Science in Artificial Intelligence
+213,86,5,5,2,2,2,5,MS,0.9,0,0,0,0,0,1,Nanyang Technological University,International Relations and National Security Studies
+214,87,5,5,3,2,2,5,MS,0.9,0,0,0,0,0,0,Nanyang Technological University,Asian Studies
+217,88,4,3,3,2,2,3,MS,0.9,0,0,0,0,0,0,Nanyang Technological University,Mechanical Engineering
+221,89,2,5,3,3,1,5,MS,0.9,0,0,0,0,0,0,National University of Singapore,Southeast Asian Studies
+224,90,4,4,3,2,2,4,MS,1.0,0,0,0,0,0,0,Nanyang Technological University,communication engineering                                    
+225,91,5,4,3,3,1,4,MS,0.9,0,0,0,0,0,0,National University of Singapore,Intelligent Systems
+227,92,4,4,3,3,2,4,MS,1.0,0,0,0,0,0,0,Nanyang Technological University,Artificial Intelligence
+228,93,4,3,5,3,1,3,MS,0.9,0,0,0,0,0,0,National University of Singapore,Mechanical Engineering
+229,94,4,6,2,2,2,6,MS,1.0,0,0,0,0,0,0,Nanyang Technological University,IGP-ICRM
+230,95,4,4,3,3,2,4,MS,0.9,0,0,0,0,0,0,Nanyang Technological University,Computer Control and Automation
+233,96,4,3,4,3,2,3,MS,1.0,0,0,0,0,0,1,Nanyang Technological University,Electronics
+235,97,5,4,3,4,1,7,MS,1.0,0,0,0,0,0,1,National University of Singapore,Statistics
+238,98,6,7,3,4,1,7,MS,1.0,1,0,0,1,0,1,National University of Singapore,Statistics
+239,99,4,7,3,4,1,4,MS,1.0,1,0,0,0,0,1,National University of Singapore,Data Science and Machine Learning
+240,100,2,7,4,3,1,7,MS,1.0,0,0,0,0,0,0,National University of Singapore,Chemical Engineering
+247,101,4,4,4,3,2,3,MS,1.0,1,1,0,1,0,1,Nanyang Technological University,Electronics
+250,102,4,3,3,4,1,2,MS,1.0,0,0,0,0,0,0,National University of Singapore,Quantitative Finance
+254,103,4,3,2,4,1,3,MS,1.0,1,0,0,1,0,1,National University of Singapore,Applied GIS
+255,104,2,4,2,4,2,2,MS,1.0,0,0,0,0,0,0,Nanyang Technological University,business  analytics
+257,105,4,7,3,3,1,2,MS,1.0,0,0,0,0,0,0,National University of Singapore,quantitative finance
+258,106,5,3,3,4,1,3,MS,1.0,0,0,1,1,0,0,National University of Singapore,Landscape Architecture
+265,107,5,6,3,4,4,7,MS,0.9,0,0,0,0,0,0,The University of Warwick,Statistics
+268,108,4,6,3,4,2,6,MS,1.0,0,0,0,0,0,0,Nanyang Technological University,Managerial Economics
+269,109,2,3,5,3,2,3,MS,1.0,0,0,0,0,0,0,Nanyang Technological University,Maritime Studies
+270,110,4,8,2,2,1,5,MS,1.0,0,0,1,0,1,0,National University of Singapore,Public Policy Analysis
+273,111,5,5,3,2,2,4,MS,1.0,0,1,1,0,0,0,Nanyang Technological University,Information Studies
+274,112,6,6,3,3,2,2,MS,1.0,1,0,0,0,0,1,Nanyang Technological University,Entrepreneurship & Innovation Management                                    
+275,113,5,4,3,4,2,4,MS,1.0,0,0,0,0,0,0,Nanyang Technological University,Computer and Information Studies
+276,114,5,2,2,1,2,6,MS,1.0,0,0,0,0,0,0,Nanyang Technological University,Economics and Econometrics
+278,115,4,4,4,4,3,6,MS,1.0,0,0,0,0,0,0,City University of Hong Kong,applied economics
+279,116,4,7,3,3,1,4,MS,1.0,0,0,0,0,0,0,National University of Singapore,Data Science and Machine Learning
+281,117,4,6,2,2,1,6,MS,1.0,0,1,0,0,1,1,National University of Singapore,applied economics
+283,118,5,5,5,3,2,5,MS,1.0,1,1,0,0,0,0,Nanyang Technological University,Teaching English as a Second Language
+284,119,5,2,3,4,1,6,MS,1.0,1,0,0,0,0,1,National University of Singapore,Master of Economics (Applied Economics)
+293,120,5,5,4,4,1,5,MS,0.9,0,0,0,0,0,0,National University of Singapore,Cultural Heritage Management
+299,121,4,3,3,3,5,4,MS,1.0,0,0,0,0,0,0,Singapore Management University,Computer Science
+302,122,5,6,3,4,1,6,MS,1.0,0,0,0,0,0,0,National University of Singapore,Applied Economics
+304,123,4,3,4,3,1,4,MS,1.0,0,0,0,0,0,0,National University of Singapore,industry 4.0
+305,124,4,3,3,4,2,3,MS,1.0,0,0,0,0,0,0,Nanyang Technological University,international construction management
+306,125,4,7,3,3,2,6,MS,1.0,0,0,0,0,0,0,Nanyang Technological University,Analytics
+312,126,2,5,3,3,1,5,MS,1.0,0,0,0,0,0,0,National University of Singapore,Public Policy
+314,127,4,8,4,3,2,8,MS,1.0,0,0,0,0,0,0,Nanyang Technological University,health communication
+315,128,4,3,3,4,1,3,MS,1.0,0,0,1,1,0,1,National University of Singapore,urban design
+319,129,2,4,5,3,1,4,MS,1.0,0,0,0,0,0,0,National University of Singapore,Management Information Systems
+320,130,5,6,2,3,2,4,MS,1.0,0,0,0,0,0,0,Nanyang Technological University,Knowledge Management
+321,131,2,3,5,3,1,3,MS,1.0,1,0,1,0,0,1,National University of Singapore,project management
+324,132,5,7,3,3,5,4,MS,1.0,1,0,0,0,0,0,Singapore Management University,Information Technology in Business
+325,133,5,5,3,3,1,5,MS,0.9,1,0,0,0,0,0,National University of Singapore,Law
+326,134,4,5,3,3,1,5,MS,1.0,0,0,1,0,0,0,National University of Singapore,Chinese Studies
+333,135,4,4,4,3,2,4,MS,1.0,0,0,0,1,0,0,The Hong Kong University of Science and Technology,Integrated Circuit Design
+334,136,4,4,4,4,1,4,MS,1.0,0,0,0,0,0,0,National University of Singapore,Electrical and Electronics Engineering
+335,137,4,4,3,3,1,4,MS,1.0,0,0,0,0,0,1,National University of Singapore,Electrical Engineering
+340,138,4,3,3,3,1,3,MS,1.0,0,0,1,0,0,0,National University of Singapore,Mechanical Engineering
+341,139,6,5,4,3,1,5,MS,1.0,0,0,0,0,0,0,National University of Singapore,Public Health Studies
+342,140,5,6,3,3,2,6,MS,1.0,0,0,0,0,0,0,Nanyang Technological University,analytics
+343,141,4,6,3,2,3,2,MS,0.9,0,0,0,0,0,0,The Chinese University of Hong Kong,Finance
+345,142,4,7,3,3,1,6,MS,1.0,1,0,0,1,0,1,National University of Singapore,applied economics
+349,143,4,7,3,4,1,4,MS,1.0,1,0,0,1,0,1,National University of Singapore,Fintech
+350,144,4,6,4,3,1,2,MS,1.0,0,0,0,0,0,0,National University of Singapore,marketing analytics and insights
+352,145,5,3,3,1,1,6,MS,0.9,0,0,0,0,0,0,National University of Singapore,Analytics
+353,146,4,3,4,5,5,3,MS,1.0,0,0,0,0,0,0,Singapore Management University,business information technology
+354,147,5,5,4,3,2,5,MS,0.9,1,1,0,0,1,0,Nanyang Technological University,China and Global Governance
+355,148,5,3,5,4,5,3,MS,1.0,0,0,0,0,0,0,Singapore Management University,business information technology
+356,149,4,6,3,3,2,6,MS,0.9,0,0,0,0,0,0,Nanyang Technological University,Financial Engineering
+357,150,4,6,4,3,1,6,MS,1.0,0,0,0,0,0,0,National University of Singapore,applied economics
+359,151,4,6,5,3,1,2,MS,1.0,0,0,0,0,0,0,National University of Singapore,quantitative finance
+361,152,6,7,3,4,1,7,MS,1.0,0,0,0,0,0,0,National University of Singapore,Food Science and Technology 
+362,153,4,3,3,4,1,3,MS,1.0,0,0,0,0,0,0,National University of Singapore,"Urban, Community and Regional Planning"
+363,154,6,5,3,4,4,4,MS,1.0,0,0,0,0,0,0,University of Glasgow,Human-Computer Interaction
+370,155,4,5,3,3,1,5,MS,1.0,1,0,0,0,0,1,University College London,social and cultural anthropology
+378,156,6,6,2,4,4,7,MS,0.9,1,0,1,0,0,0,University of Glasgow,Statistics
+381,157,6,7,2,3,2,7,MS,1.0,0,0,0,0,0,0,University of Edinburgh,statistics with data science
+385,158,2,7,4,3,4,7,MS,0.9,0,0,0,0,0,0,University Of Southampton,Statistics
+389,159,5,5,3,2,2,8,MS,1.0,0,0,0,0,0,0,University of Edinburgh,Performance Psychology
+390,160,6,4,5,2,2,8,MS,1.0,0,0,0,0,0,0,Glasgow School of Art,Visual Arts
+391,161,2,7,4,3,2,7,MS,0.9,0,0,0,0,0,0,University of Edinburgh,Science and Technology in Society
+392,162,6,4,3,4,4,4,MS,0.9,1,0,0,0,0,1,University of Glasgow,Electrical and Electronics Engineering
+398,163,6,5,2,2,1,5,MS,0.9,1,0,0,0,0,0,University College London,International Relation
+402,164,5,5,4,1,1,5,MS,1.0,0,0,0,0,0,0,University of Oxford,International Relation
+404,165,6,5,3,4,4,8,MS,0.9,0,0,0,0,0,0,University of Birmingham,man-machine interactive
+406,166,6,7,2,4,2,5,MS,1.0,0,0,0,0,0,0,University of Edinburgh,Educational Research
+408,167,4,4,3,3,1,4,MS,0.9,0,0,0,1,1,1,Imperial College London,Advanced Computing
+412,168,6,7,3,2,4,2,MS,1.0,0,0,0,0,0,0,Durham University,Marketing
+421,169,4,5,3,3,1,5,MS,1.0,0,0,0,0,0,0,University College London,Social Anthropology
+423,170,1,5,2,1,3,5,MS,0.9,0,0,0,0,0,0,London School of Economics and Political Science,Comparative Politics
+428,171,4,5,3,2,1,5,MS,1.0,0,0,0,0,0,0,University College London,evolution of language and cognition                                    
+432,172,5,4,4,4,4,4,MS,0.9,1,0,1,1,0,1,The University of Warwick,Computer and Information Systems Security
+460,173,4,3,4,4,1,3,MS,1.0,0,0,0,0,0,0,University College London,urban design and planning                                    
+463,174,6,5,3,2,4,5,MS,1.0,0,0,0,0,0,0,University of Glasgow,Educational Studies                                    
+466,175,6,8,3,3,2,8,MS,1.0,0,0,0,0,0,0,University of Edinburgh,Bioinformatics
+471,176,5,6,2,2,3,2,MS,1.0,0,0,0,0,0,0,Kings College London,finance and accounting                                    
+477,177,6,4,3,3,3,4,MS,1.0,1,1,0,0,0,0,Kings College London,Data-Intensive Analysis                                    
+486,179,6,5,5,2,2,5,MS,1.0,1,0,1,1,1,1,The University of Manchester,Ma in education                                    
+487,180,4,5,3,2,3,8,MS,0.9,1,0,0,1,0,0,London School of Economics and Political Science,"Media, Communication and Development                                    "
+489,181,4,5,3,1,3,8,MS,0.9,0,0,0,0,0,0,London School of Economics and Political Science,global media and communication（USC）                                    
+491,182,5,5,3,3,3,5,MS,1.0,0,0,0,0,0,0,Kings College London,Cultural Creative Industries                                    
+494,183,2,5,3,1,3,5,MS,1.0,0,0,0,0,0,0,The Chinese University of Hong Kong,Global Communication                                    
+503,184,5,7,5,4,3,4,MS,1.0,0,0,0,0,0,0,The University of Sydney,Data Science                                    
+515,186,4,3,4,3,1,3,MS,1.0,0,0,0,1,0,0,National University of Singapore,Environmental Engineering
+520,187,2,5,4,1,1,5,MS,1.0,1,0,0,0,0,0,University of Oxford,Sociology
+524,188,6,5,3,2,3,5,MS,1.0,0,0,0,0,0,0,The Chinese University of Hong Kong,common law
+527,189,6,5,4,3,2,5,MS,1.0,1,0,0,0,0,1,University of Edinburgh,Chinese Business Law
+528,190,2,7,5,3,4,2,MS,1.0,0,0,1,1,0,1,University of Glasgow,international finance                                    
+536,191,6,6,4,3,3,2,MS,1.0,0,0,0,0,0,0,The University of Sydney,Marketing
+547,192,2,3,3,3,1,4,MS,0.9,0,0,1,1,0,1,National University of Singapore,Electrical Engineering
+548,193,2,7,5,2,1,7,MS,0.9,0,0,0,0,0,0,Imperial College London,Computational and Applied Mathematics
+551,194,4,5,3,4,2,5,MS,1.0,1,0,0,1,0,0,University of Edinburgh,international cultural policy and management                                    
+553,195,5,5,3,3,1,8,MS,0.9,1,0,0,0,0,0,University College London,film studies (film&amp;philosophy pathway)                                    
+555,196,4,7,3,3,1,7,MS,1.0,1,0,1,1,0,1,Imperial College London,Applied Mathematics
+564,197,4,6,5,3,4,2,MS,1.0,1,0,1,1,0,1,University Of Southampton,Marketing
+567,198,4,4,3,4,2,4,MS,1.0,0,0,0,0,0,0,The Hong Kong University of Science and Technology,Information Technology          
+580,199,6,4,3,4,3,4,MS,1.0,0,0,0,0,0,0,The Chinese University of Hong Kong,Information Systems                                    
+582,200,3,4,3,4,2,4,MS,1.0,0,0,0,0,0,0,University of Edinburgh,Computer Science
+587,201,5,5,4,4,3,5,MS,1.0,0,0,0,0,0,0,Kings College London,Law
+588,202,4,5,4,3,4,8,MS,1.0,0,0,0,0,0,0,The University of Warwick,Digital media and culture                                    
+589,203,5,5,5,2,2,5,MS,0.9,0,0,0,0,0,0,University of Edinburgh,International Relations
+594,204,6,2,3,4,4,5,MS,1.0,0,0,0,0,0,0,University Of Southampton,English Language Teaching                                    
+601,205,5,7,3,3,1,7,MS,1.0,0,0,0,0,0,0,National University of Singapore,Statistics
+603,206,5,6,4,4,2,2,MS,0.9,0,0,0,0,0,0,The University of Manchester,Mathematical Finance                                    
+614,207,5,5,3,2,1,8,MS,1.0,0,0,0,0,0,0,University College London,Digital Media: Critical Studies                                    
+618,208,4,5,4,3,3,8,MS,1.0,1,0,0,0,0,0,Kings College London,Global Media Industries                                    
+619,209,3,3,3,3,1,3,MS,1.0,0,0,0,0,0,0,Imperial College London,Advanced Materials Science and Engineering                                    
+624,210,4,4,4,4,2,4,MS,0.9,0,0,0,1,0,0,The University of Manchester,Artificial Intelligence
+633,211,6,3,3,3,1,3,MS,1.0,0,0,0,0,0,0,University College London,Urban Design and Planning                                    
+640,212,4,3,5,4,3,4,MS,1.0,0,0,0,0,0,0,The Chinese University of Hong Kong,computing and IT management                                    
+641,213,4,3,2,2,1,3,MS,0.9,0,0,0,0,0,0,Imperial College London,Mechanical Engineering
+645,214,4,7,5,2,1,7,MS,1.0,1,0,0,1,0,1,University College London,Chemistry                                    
+650,215,4,3,4,3,1,3,MS,1.0,0,0,0,0,0,0,University College London,Urban Analytics                                    
+651,216,4,3,3,3,1,7,MS,1.0,0,0,0,0,0,0,University of Cambridge,Chemistry
+659,217,6,3,4,4,3,3,MS,1.0,0,0,0,0,0,1,The Chinese University of Hong Kong,International planning and urban design                                    
+665,218,4,6,3,4,2,2,MS,1.0,1,0,0,0,0,1,The University of Hong Kong,Finance and Investment                                    
+675,219,5,3,4,4,2,3,MS,1.0,0,0,0,0,0,0,The University of Manchester,International Planning and Urban Design                                    
+679,220,5,5,3,3,1,5,MS,1.0,0,0,0,0,0,0,University College London,language，culture and history:french and francophone studies                                    
+680,221,5,6,3,4,4,2,MS,0.9,0,0,0,0,0,0,The University of Warwick,business analytics                                    
+682,222,4,6,4,4,3,6,MS,1.0,1,0,0,1,0,0,Kings College London,digital economy                                    
+683,223,4,7,3,3,1,4,MS,1.0,0,0,0,0,0,0,University College London,Machine Learning                                    
+686,224,4,5,3,1,1,5,MS,1.0,0,1,1,0,0,0,University of Cambridge,"Linguistics, Interpretation, and Translation"
+687,225,4,3,4,3,4,4,MS,1.0,0,0,0,0,0,0,University of Glasgow,Information Technology
+690,226,5,7,1,3,2,7,MS,1.0,1,0,0,1,0,0,The University of Manchester,Applied Mathematics
+695,227,2,5,3,1,1,5,MS,1.0,0,0,1,0,0,1,University of Oxford,"Divinity, Ministry, and Pre-Theology"
+696,228,5,3,3,1,2,2,MS,1.0,0,0,0,0,0,0,University of Edinburgh,"Finance, Technology and Policy                                    "
+698,229,2,3,4,3,1,5,MS,1.0,0,0,0,0,0,0,University College London,Anthropology and Archaeology
+710,230,4,5,4,4,3,5,MS,0.9,1,0,0,0,0,0,Australian National University,Speech and Language Processing                                    
+716,231,4,4,5,4,4,4,MS,1.0,1,0,0,0,0,0,University of Glasgow,Data Science                                    
+718,232,5,1,4,3,1,7,MS,0.9,0,0,0,0,0,0,University College London,Brain Science                                    
+719,233,2,7,3,1,1,7,MS,1.0,0,0,0,0,0,0,University College London,brain science                                    
+721,234,5,3,3,4,1,8,MS,1.0,0,0,0,0,0,0,University of the Arts London,user experience design                                    
+727,235,2,2,5,2,4,4,MS,1.0,0,0,0,0,0,0,The University of Sheffield,Data Science                                    
+732,236,5,4,5,4,4,4,MS,1.0,0,0,1,1,0,0,University of Glasgow,data science                                    
+734,237,6,4,3,4,4,4,MS,1.0,0,0,0,0,0,0,University of St Andrews,ACS                                    
+741,238,4,5,2,2,3,6,MS,1.0,0,0,0,0,0,0,"The Chinese University of Hong Kong, Shengzhen",Accounting
+744,239,6,5,4,4,4,5,MS,1.0,1,0,1,0,0,0,University of Leeds,Law                                    
+750,240,4,3,3,2,2,3,MS,1.0,0,0,0,0,0,0,The University of Manchester,Real Estate Development
+757,241,6,3,4,4,4,4,MS,1.0,0,0,0,0,0,0,University of Glasgow,Software Development                                    
+768,242,4,3,3,3,1,3,MS,1.0,1,0,0,0,0,1,National University of Singapore,"Urban, Community and Regional Planning                                    "
+769,243,4,3,4,3,4,3,MS,1.0,0,0,0,0,0,0,The University of Sheffield,Real Estate
+774,244,5,5,4,2,1,8,MS,1.0,0,0,0,0,0,0,University College London,creative and media enterprise                                    
+775,245,5,5,4,2,4,5,MS,1.0,0,0,1,0,0,0,University of Leeds,East Asian Studies
+785,246,6,4,3,4,4,4,MS,1.0,0,0,0,0,0,0,University of St Andrews,Advanced Software Engineering                                    
+790,247,5,3,4,4,2,3,MS,1.0,1,0,0,0,0,0,Manchester School of Architecture,Architecture
+792,248,4,5,3,2,5,8,MS,1.0,1,0,0,0,0,0,Georgetown University,Global Media and Communications                                    
+794,249,5,5,4,3,2,5,MS,0.9,0,0,0,0,0,0,University of Edinburgh,History
+796,250,2,7,3,3,1,5,MS,1.0,0,0,0,0,0,0,University of Chicago,Social Research Methods                                    
+801,251,4,5,2,4,3,5,MS,0.9,1,0,0,0,1,0,The University of Sydney,digital communication and culture                                    
+811,252,2,3,3,3,2,4,MS,0.9,0,0,0,0,0,0,Nanyang Technological University,Human and Biological Robotics                                    
+813,254,4,3,3,3,1,3,MS,1.0,0,0,0,0,0,0,Imperial College London,Control Systems                                    
+819,255,4,7,3,3,1,7,MS,0.9,0,0,0,0,0,0,National University of Singapore,Statistics                                    
+822,257,5,5,3,3,1,5,MS,1.0,1,0,0,0,0,1,University College London,Educational Research
+838,258,6,4,4,4,2,4,MS,0.9,1,0,1,1,0,1,University of Edinburgh,Wireless ＆ Microwave Communication Eng                                    
+845,259,2,6,3,2,1,6,MS,1.0,1,0,0,0,0,0,Imperial College London,Financial engineering                                    
+848,260,2,3,5,2,1,3,MS,0.9,0,0,0,1,0,1,Imperial College London,Materials Engineering
+851,261,4,6,3,3,3,2,MS,1.0,1,0,0,0,0,1,Kings College London,finance analytics                                    
+855,262,4,5,3,3,5,8,MS,1.0,0,1,1,0,0,0,Loughborough University,Communication and Media Studies
+856,263,5,5,3,4,4,8,MS,1.0,1,1,0,0,0,0,University of Leeds,Communication and Media Studies
+860,264,5,3,2,3,1,3,MS,0.9,0,0,1,1,0,0,University College London,Mechanical Engineering
+861,265,6,5,4,4,4,5,MS,1.0,0,0,0,0,0,0,The University of Nottingham,Foundations of Education
+864,266,6,4,3,3,4,4,MS,1.0,0,0,0,0,0,0,University of St Andrews,Human Computer Interaction                                    
+867,267,4,3,3,4,1,3,MS,1.0,0,0,0,0,0,0,Imperial College London,Advanced Materials for Sustainable Infrastructure                                    
+872,268,4,5,4,4,4,8,MS,1.0,0,0,0,0,0,0,The University of Nottingham,Psychology
+874,270,4,5,4,3,4,8,MS,0.9,0,1,0,0,0,1,University of Glasgow,Multimedia Management and Webmaster
+882,271,6,5,4,3,3,5,MS,1.0,0,0,0,0,0,0,The Chinese University of Hong Kong,Teaching English to Speakers of Other Languages
+886,272,4,3,3,3,1,3,MS,0.9,1,0,1,1,1,1,University College London,Urban Regeneration                                    
+896,273,6,5,4,4,4,8,MS,0.9,0,0,0,0,0,0,University of Leeds,Arts Management and Heritage Studies                                    
+899,274,4,5,2,1,1,5,MS,1.0,0,0,0,0,0,0,University of Oxford,"Visual, Material and Museum Anthropology                                    "
+905,275,5,3,4,4,4,3,MS,0.9,0,1,0,1,0,0,The University of Nottingham,user experience engineering                                    
+906,276,4,5,3,4,2,5,MS,1.0,0,0,0,0,0,0,University of Edinburgh,Public Policy Analysis
+909,277,4,3,3,4,2,3,MS,1.0,0,0,0,0,0,0,The University of Manchester,urban design and international planning                                    
+910,278,2,3,2,2,1,3,MS,0.9,0,0,0,0,0,0,University of Oxford,Geography and Environment                                    
+913,279,6,4,3,3,2,2,MS,1.0,0,0,0,0,0,0,The University of Hong Kong,International Management & Marketing                                    
+917,281,4,4,5,4,4,4,MS,1.0,0,0,0,0,0,0,The University of Sheffield,Advanced computer science                                    
+920,282,5,5,4,2,2,5,MS,1.0,0,0,0,0,0,0,The University of Manchester,Sociology
+922,283,5,5,3,4,3,4,MS,1.0,0,0,0,0,0,0,Kings College London,Big Data in Culture and Society                                    
+923,284,5,5,3,2,4,4,MS,0.9,0,0,0,0,0,0,The University of Nottingham,Human Computer Interaction                                    
+924,285,6,5,2,4,2,5,MS,1.0,1,0,1,0,0,0,University of Edinburgh,education                            
+926,286,5,1,4,4,3,5,MS,0.9,0,0,0,0,0,0,The Chinese University of Hong Kong,HK:Public Health(MPH)（FT / PT）                                    
+937,287,6,4,4,4,4,2,MS,1.0,0,1,0,0,0,0,University Of Southampton,international marketing                                    
+943,288,4,5,2,3,4,2,MS,1.0,1,0,0,0,0,1,The University of Warwick,Management
+944,289,4,4,3,2,1,4,MS,1.0,0,0,1,0,0,0,University of Oxford,Computer Science
+945,290,4,5,3,4,4,5,MS,0.9,1,0,0,0,0,0,The University of Warwick,Sociology
+951,291,6,2,4,4,4,5,MS,1.0,0,0,0,0,0,0,University of Liverpool,Teaching English to Speakers of Other Languages                                    
+953,293,4,3,2,3,1,3,MS,0.9,0,0,0,0,0,0,Imperial College London,Civil Engineering
+954,294,1,7,3,1,1,7,MS,1.0,0,1,0,0,0,0,University of Oxford,EPSRC CDT in Mathematics of Random Systems                                    
+957,295,2,5,3,1,1,5,MS,1.0,0,0,0,0,0,0,University of Oxford,Sociology
+959,296,6,3,4,4,4,3,MS,1.0,0,0,0,0,0,0,The University of Sheffield,Urban and Regional Planning                                    
+961,297,2,5,4,3,2,5,MS,1.0,0,0,1,0,1,0,The University of Manchester,MSc in Social Anthropology                                    
+969,298,4,5,2,3,1,8,MS,0.9,0,0,0,0,0,0,University College London,Psychological Studies (conversion)                                    
+974,299,4,5,2,2,1,5,MS,1.0,0,0,0,0,0,0,University College London,Teaching English as a Second Language
+977,300,6,8,3,2,4,8,MS,1.0,0,0,0,0,0,0,The University of Warwick,Behavioral Sciences
+980,301,5,7,2,4,2,7,MS,0.9,0,0,1,1,0,1,The University of Manchester,Mathematics
+986,302,5,5,2,3,3,5,MS,1.0,0,0,0,0,0,0,London School of Economics and Political Science,Development Studies                                    
+987,303,4,7,4,3,1,3,MS,1.0,1,0,0,0,0,1,University College London,Smart cities and urban analytics                                    
+992,304,4,5,3,2,1,5,MS,1.0,0,0,0,0,1,0,University College London,English Language                                    
+995,305,6,5,2,3,2,5,MS,1.0,0,0,0,0,0,0,University of California - Berkeley,LLM                                    
+998,306,3,3,3,3,1,4,MS,1.0,1,0,1,0,0,0,Imperial College London,Human and biological robotics                                    
+1000,307,4,7,3,3,1,6,MS,1.0,1,0,0,0,0,0,Imperial College London,financial technology                                    
+1004,308,4,3,3,3,4,3,MS,0.9,0,0,0,0,0,1,Carnegie Mellon University,Civil and Environmental Engineering                                    
+1008,309,6,6,2,3,3,3,MS,1.0,0,0,0,0,0,0,New York University,Industrial Engineering
+1012,310,4,7,4,3,4,7,MS,0.9,0,0,1,1,0,0,University of Illinois at Urbana-Champaign,Remote Sensing & Geospatial Sciences                                    
+1024,311,5,3,2,3,1,3,MS,0.9,1,0,0,0,0,1,University College London,Landscape Architecture
+1027,312,6,7,2,2,1,7,MS,1.0,0,0,0,0,0,0,University of Chicago,Computational and Applied Mathematics
+1029,313,2,4,3,3,3,4,MS,1.0,0,0,0,0,0,0,City University of Hong Kong,Computer Science                                    
+1034,314,6,5,3,2,4,2,MS,1.0,0,0,0,0,0,0,Carnegie Mellon University,Advertising and Brand Responsibility                                    
+1038,315,4,4,3,3,1,4,MS,0.9,0,0,0,0,0,0,Imperial College London,Electrical and Electronics Engineering
+1046,316,2,6,4,3,2,6,MS,0.9,0,0,0,0,0,0,University of Michigan - Ann Arbor,Economics and Econometrics
+1065,317,4,3,2,1,1,3,MS,0.9,0,0,0,0,0,0,University of Cambridge,Regional Planning                                    
+1068,318,5,3,3,3,2,3,MS,1.0,0,0,0,0,0,0,University of Pennsylvania,Landscape Architecture 
+1072,319,6,5,3,2,2,5,MS,1.0,1,1,0,0,0,0,Columbia University,Law
+1083,320,1,7,3,4,1,7,MS,1.0,0,0,0,0,0,0,National University of Singapore,Statistics
+1086,321,5,5,2,3,3,5,MS,0.9,1,0,0,0,0,1,New York University,Motor Control Center                                   
+1099,322,4,5,4,4,2,5,MS,1.0,1,0,0,1,0,0,The University of Manchester,Social Work and Youth Services                                    
+1101,323,5,5,2,2,2,5,MS,1.0,1,1,1,1,1,1,Columbia University,strategic communication                                    
+1107,324,6,5,4,3,5,5,MS,1.0,0,0,0,0,0,0,Syracuse University,Journalism and Mass Communications                                    
+1118,325,2,5,2,2,1,5,MS,1.0,0,0,0,0,0,0,Harvard University,East Asian Languages and Literatures                                    
+1120,326,6,5,4,3,2,5,MS,1.0,0,0,0,0,0,0,Columbia University,Journalism
+1125,327,4,1,2,3,3,4,MS,0.9,0,0,0,0,0,0,University of California - Los Angeles,Bioengineering and Biomedical Engineering
+1129,328,1,1,4,3,3,1,MS,1.0,0,0,0,0,0,0,University of California - Los Angeles,Epidemiology
+1131,329,6,7,4,4,4,7,MS,0.9,0,0,0,0,0,0,University of California - San Diego,Chemistry
+1133,330,6,5,3,1,2,5,MS,1.0,0,0,0,0,0,0,University of Michigan - Ann Arbor,Global Sustainability Science                                    
+1139,331,2,4,3,3,3,4,MS,1.0,0,0,0,0,0,0,City University of Hong Kong,Computer Science                                    
+1142,332,4,5,2,1,1,5,MS,1.0,0,0,0,0,0,0,University of Chicago,Law
+1148,333,5,5,2,3,1,5,MS,0.9,0,0,0,0,1,1,University College London,"Linguistics, Interpretation, and Translation                                    "
+1158,334,6,5,4,3,3,5,MS,1.0,0,0,0,0,0,0,New York University,Motor Control Center
+1163,335,6,7,2,2,1,7,MS,1.0,1,0,1,1,0,0,University of Chicago,Geophysical Sciences                                    
+1170,336,1,5,2,1,1,8,MS,1.0,0,0,0,0,0,0,University of Chicago,digital humanties                                    
+1171,337,6,5,5,2,2,2,MS,1.0,0,0,0,0,0,0,Johns Hopkins University,Marketing
+1175,338,6,5,2,2,2,5,MS,1.0,0,1,0,0,0,0,Columbia University,International Educational Development                                    
+1179,340,2,5,3,1,2,5,MS,1.0,1,0,0,0,1,0,Cornell University,Law
+1184,341,1,5,3,1,1,5,MS,1.0,0,0,0,0,0,0,University of Chicago,Public Policy Analysis
+1205,342,4,7,3,2,3,7,MS,1.0,0,0,0,0,0,0,Duke University,computational science                                    
+1208,343,5,6,3,1,5,6,MS,0.9,0,0,0,0,0,0,SUNY University at Albany,Economics and Econometrics
+1209,344,2,5,4,1,1,5,MS,1.0,0,0,0,0,0,0,University of Chicago,Public Policy Analysis
+1211,345,4,5,4,2,5,5,MS,0.9,0,0,0,0,0,0,Vanderbilt University,Teaching English to Speakers of Other Languages
+1218,346,1,6,5,3,4,5,MS,0.9,0,0,0,0,0,0,University of California - San Diego,Public Policy Analysis
+1223,347,5,4,3,3,5,4,MS,1.0,0,0,0,0,0,0,University of Pittsburgh,Information science                                    
+1229,348,4,5,2,2,2,5,MS,1.0,1,0,1,1,1,1,Columbia University,Educational Technology and Applied Learning Sciences (METALS)                                    
+1235,349,4,5,2,1,3,5,MS,0.9,0,0,0,0,0,0,University of California - Los Angeles,East Asian Languages and Literatures
+1236,350,2,3,3,2,4,3,MS,1.0,0,0,0,0,0,0,University of Texas - Austin,Civil Engineering
+1237,351,5,5,2,1,5,5,MS,1.0,0,0,1,0,0,0,University of South Florida,"Linguistics, Interpretation, and Translation"
+1245,352,4,6,2,3,2,4,MS,1.0,0,0,0,0,0,0,The University of Hong Kong,business analytics                            
+1246,353,2,8,5,4,5,8,MS,1.0,0,0,0,0,0,0,Savannah College of Art and Design,Visual Effects                                    
+1250,354,6,3,4,4,4,3,MS,1.0,0,0,0,0,0,0,Georgia Institute of Technology,Architecture
+1255,355,4,5,3,2,5,8,MS,1.0,0,0,0,0,0,0,Indiana University,music education                                    
+1256,356,2,8,3,5,2,3,MS,0.9,0,0,0,0,0,0,University of Pennsylvania,Master of Urban Spatial Analytics                                    
+1258,357,4,5,2,2,2,5,MS,1.0,1,0,1,1,0,1,University of Pennsylvania,Learning Technologies                                    
+1266,358,1,3,3,2,2,5,MS,0.9,1,0,0,0,0,0,Cornell University,Law
+1272,359,5,5,3,3,5,5,MS,1.0,0,0,0,0,0,0,University of Virginia,Law
+1278,360,5,2,4,4,5,5,MS,0.9,0,0,0,0,0,0,Florida State University,Public Administration
+1281,361,6,5,5,3,3,8,MS,0.9,0,0,0,0,0,0,New York University,Communication in Digital Media
+1282,362,1,5,4,3,1,5,MS,1.0,0,0,0,0,0,0,National University of Singapore,LLM                                    
+1288,363,2,5,2,1,2,5,MS,1.0,1,0,0,0,0,1,Columbia University,communication and education                                    
+1291,364,4,4,5,2,5,4,MS,1.0,0,0,0,0,0,0,Electrical and Electronics Engineering,Electrical and Electronics Engineering
+1292,365,4,5,3,2,5,5,MS,1.0,1,0,1,1,0,0,University of Southern California,Law
+1302,366,5,3,5,3,2,3,MS,0.9,0,0,1,0,0,0,University of Michigan - Ann Arbor,Materials Engineering                                    
+1306,367,6,6,3,1,1,5,MS,1.0,1,0,0,0,0,0,University College London,Public Policy Analysis
+1314,368,6,5,3,3,5,5,MS,1.0,1,0,0,0,0,0,University of Southern California,Law
+1318,369,2,5,3,1,2,5,MS,0.9,0,0,0,0,0,0,University of Pennsylvania,East Asian Languages and Literatures
+1320,370,5,3,3,1,2,4,MS,1.0,0,0,0,0,0,0,University of Edinburgh,Artificial Intelligence
+1322,371,6,4,3,3,5,4,MS,0.9,0,0,0,0,0,0,University of Arizona,Electrical and Electronics Engineering
+1324,372,5,7,3,3,3,7,MS,1.0,0,0,0,1,0,0,Rutgers University,Chemistry                                    
+1358,374,4,5,1,4,5,8,MS,1.0,0,0,1,0,0,0,Indiana University,Communication and Media Studies
+1361,375,6,5,2,1,1,5,MS,0.9,0,0,0,0,0,0,University College London,"Linguistics, Interpretation, and Translation"
+1365,376,4,2,3,2,1,5,MS,1.0,1,0,1,1,1,1,University of Chicago,Public Policy Analysis
+1376,377,2,6,2,3,2,6,MS,1.0,0,0,0,0,0,0,The University of Hong Kong,Economics and Econometrics                                    
+1382,378,2,5,2,1,2,8,MS,0.9,1,1,0,0,1,0,Columbia University,Mental Health Counseling
+1388,379,4,3,2,2,4,7,MS,1.0,0,0,1,0,0,0,Georgia Institute of Technology,Chemical Engineering
+1399,380,4,5,2,1,1,5,MS,1.0,0,0,0,0,0,0,University of Chicago,maph                                    
+1400,381,4,7,3,3,5,7,MS,1.0,1,0,0,0,0,0,University of Utah,Molecular Biology
+1401,382,4,5,4,3,5,5,MS,1.0,1,0,0,0,0,0,Boston University,American Law                                    
+1407,383,4,6,3,2,1,6,MS,1.0,0,0,0,0,0,0,University of Chicago,Economics and Econometrics                                    
+1412,384,5,3,2,3,1,3,MS,0.9,0,0,0,0,0,0,University College London,"Civil, Environmental and Geomatic Engineering                                    "
+1424,385,6,5,2,2,5,5,MS,0.9,0,0,0,0,0,0,Georgetown University,"Communication, Culture and Technology                                    "
+1427,386,6,1,2,3,4,1,MS,0.9,0,0,0,0,0,0,University of Copenhagen,Pharmaceutical Sciences
+1430,387,6,3,4,4,5,3,MS,0.9,0,0,0,0,0,0,SUNY University at Buffalo,Aerospace and Aeronautical Engineering
+1431,388,2,5,2,1,2,5,MS,0.9,0,0,0,0,0,0,Cornell University,Asian Studies
+1435,389,4,4,4,3,5,4,MS,0.9,1,0,0,0,0,0,University of Florida,Computer Science
+1451,390,4,5,3,2,3,5,MS,0.9,0,0,0,0,0,0,New York University,History
+1452,391,5,5,3,1,5,5,MS,1.0,0,1,0,0,0,0,Middlebury Institute of International Studies at Monterey,Translation and Localization Management
+1453,392,4,4,4,2,2,4,MS,0.9,0,0,0,0,0,0,Nanyang Technological University,Signal Processing                                    
+1467,393,4,5,3,3,5,5,MS,1.0,0,0,0,0,0,0,Vanderbilt University,LLM                                    
+1471,394,6,3,4,3,2,3,MS,1.0,0,0,0,0,0,0,University of Toronto,Urban Design                                    
+1476,395,6,5,3,3,5,8,MS,0.9,0,0,0,0,0,0,Boston University,Arts Administration                                    
+1479,396,4,5,2,3,3,5,MS,0.9,0,0,0,0,0,0,New York University,Teaching English to Speakers of Other Languages                                   
+1484,397,4,7,2,3,2,7,MS,0.9,0,0,0,0,0,0,Columbia University,Statistics
+1496,398,4,5,3,1,1,8,MS,1.0,0,0,0,0,0,0,University of Chicago,Psychology                                    
+1505,399,4,6,3,3,2,6,MS,0.9,0,0,0,0,0,0,University of Michigan - Ann Arbor,Policy Economics
+1511,400,6,4,4,4,5,4,MS,1.0,0,0,0,0,0,0,University of Southern California,Cyber Security                                    
+1513,401,6,7,4,3,5,7,MS,1.0,0,0,0,0,0,0,University of Delaware,Computational and Applied Mathematics
+1514,402,4,7,5,2,3,8,MS,0.9,1,1,0,0,0,0,New York University,"Media, Culture and Communication                                    "
+1519,403,2,7,3,2,1,7,MS,1.0,0,0,0,0,0,0,University of Chicago,Cellular Biology
+1527,404,6,2,4,3,2,2,MS,1.0,0,0,0,0,0,0,Johns Hopkins University,Marketing
+1528,405,2,5,2,1,5,8,MS,1.0,0,0,0,0,0,0,Georgia State University,Counseling Psychology
+1535,406,6,3,5,4,5,3,MS,1.0,0,0,1,0,0,1,Southern Methodist University,Mechanical Engineering
+1540,407,6,5,3,2,1,8,MS,1.0,0,0,0,0,0,0,University of Chicago,MAPSS in Psychology                                    
+1544,408,4,5,2,3,5,8,MS,0.9,0,0,0,0,0,0,Arizona State University,Psychology
+1551,409,2,5,2,1,2,5,MS,1.0,1,0,0,0,1,1,University of Pennsylvania,Public Policy Analysis
+1555,410,2,5,3,1,1,5,MS,1.0,0,0,0,0,0,0,University of Chicago,Social Sciences
+1557,411,5,6,2,4,5,6,MS,1.0,0,0,1,0,0,1,North Carolina State University,Agricultural Economics
+1565,412,6,5,2,2,2,5,MS,1.0,0,1,0,0,0,0,University of Pennsylvania,International Educational Development                                    
+1569,413,5,6,3,2,4,6,MS,0.9,0,0,0,0,0,0,University of Wisconsin - Madison,Economics and Econometrics
+1576,414,4,3,3,2,5,3,MS,1.0,0,0,1,0,0,0,Clemson University,"Parks, Recreation and Leisure Facilities Management"
+1580,415,2,6,5,1,2,6,MS,0.9,0,0,0,0,0,0,Johns Hopkins University,Economics and Econometrics                                    
+1587,416,2,5,2,2,1,5,MS,1.0,0,0,0,0,0,0,University of Chicago,Computer Science-Align                                    
+1597,417,4,7,4,2,2,7,MS,0.9,0,0,0,0,0,0,University of Michigan - Ann Arbor,Biostatistics                                    
+1607,418,6,5,3,3,3,5,MS,1.0,1,0,0,1,0,0,New York University,Medical Social Work
+1611,419,5,5,3,1,1,5,MS,1.0,0,0,0,0,0,0,University of Chicago,master of arts program                                
+1612,420,4,5,3,3,4,5,MS,0.9,0,0,1,0,0,0,University of Wisconsin - Madison,Mass Communication
+1620,421,5,7,3,2,1,7,MS,1.0,0,0,1,0,0,0,University of Cambridge,Cellular and Molecular Biology                                    
+1635,422,2,7,2,1,2,7,MS,0.9,0,0,0,0,0,0,University of Pennsylvania,Global and International Studies
+1638,423,4,3,3,3,5,3,MS,1.0,0,0,0,0,0,0,SUNY University at Buffalo,Civil Engineering
+1639,424,4,5,3,2,5,8,MS,1.0,0,0,0,0,0,0,Arizona State University,Psychology Cognitive Science                                    
+1641,425,2,5,2,1,1,5,MS,1.0,0,0,0,1,1,0,University of Chicago,Political Science and Government                                    
+1646,426,4,7,2,3,2,7,MS,1.0,0,0,0,0,0,0,Cornell University,Neurobiology                                    
+1658,427,6,3,2,3,1,3,MS,0.9,0,0,0,0,0,0,Harvard University,Landscape Architecture
+1662,428,5,6,3,2,4,2,MS,0.9,0,0,0,0,0,0,University of Illinois at Urbana-Champaign,Finance
+1665,429,4,4,4,3,2,4,MS,0.9,0,0,0,0,0,0,University of Michigan - Ann Arbor,Electrical and Computer Engineering
+1670,430,2,3,4,3,5,3,MS,1.0,0,0,0,0,0,1,University of Oregon,Architecture
+1671,431,4,5,3,3,2,5,MS,1.0,1,0,1,0,0,0,Columbia University,Sociology
+1678,432,5,5,3,3,2,8,MS,1.0,0,0,0,0,0,0,University of Pennsylvania,Interdisciplinary Studies in Human Development                                    
+1683,433,4,4,5,4,5,4,MS,0.9,0,0,0,0,0,0,George Washington University,Computer Science
+1688,434,5,3,4,3,2,3,MS,1.0,0,0,0,0,0,0,University of Edinburgh,Geographical Information Science
+1698,435,6,3,3,5,1,3,MS,1.0,0,0,0,0,0,0,University College London,Architecture
+1710,436,6,6,3,3,5,6,MS,0.9,0,0,0,0,0,0,University of Texas - Dallas,Economics
+1715,437,5,5,3,1,2,5,MS,1.0,1,1,0,0,0,0,University of Pennsylvania,Learning Technologies                                    
+1719,438,2,7,2,3,1,7,MS,1.0,0,0,0,1,0,0,University of Chicago,Computational and Applied Mathematics
+1723,439,4,4,5,3,5,4,MS,0.9,0,0,0,0,0,0,University of California - Irvine,Electrical and Computer Engineering
+1729,441,4,2,3,2,3,8,MS,1.0,1,0,0,0,1,0,New York University,Digital media design for Learning                                    
+1730,442,4,5,2,2,2,5,MS,1.0,0,0,0,0,0,0,University of Pennsylvania,Master of Science in Social Policy
+1732,443,2,7,3,3,5,5,MS,0.9,0,0,0,0,0,0,Boston College,Sociology
+1733,444,6,5,4,3,4,5,MS,0.9,1,0,0,1,0,1,University of Texas - Austin,learning technologies                                    
+1737,445,6,2,2,1,5,6,MS,0.9,0,0,0,0,0,0,Kansas State University,Economics and Econometrics
+1746,446,4,6,5,3,5,6,MS,1.0,0,0,0,0,0,0,The Pennsylvania State University,Economics and Econometrics
+1747,447,4,5,2,2,5,5,MS,1.0,1,0,0,0,0,1,University of Southern California,Teaching English to Speakers of Other Languages                                    
+1753,448,4,5,3,2,1,3,MS,0.9,1,0,0,0,0,0,National University of Singapore,"Urban, Community and Regional Planning"
+1766,449,4,3,1,3,1,3,MS,1.0,0,0,0,0,0,0,National University of Singapore,MLA3D                                    
+1767,450,4,6,3,2,5,6,MS,0.9,0,0,0,0,0,0,Georgetown University,Applied Economics                                    
+1780,451,4,7,3,3,1,7,MS,0.9,0,0,0,0,0,0,Imperial College London,Chemistry
+1783,452,4,7,3,3,5,7,MS,1.0,0,0,0,0,0,0,University of Maryland - College Park,Mathematics
+1788,453,6,6,4,3,5,6,MS,0.9,0,0,0,0,0,0,University of Southern California,Economics and Econometrics
+1797,454,4,5,2,2,1,5,MS,1.0,1,0,0,0,1,1,Harvard University,Public Policy Analysis                                    
+1804,455,5,3,4,3,5,7,MS,0.9,0,0,1,0,0,0,Texas A&M University,Chemical Engineering
+1805,456,6,7,3,3,5,7,MS,1.0,0,0,0,0,0,0,University of California - Davis,Biostatistics                                    
+1806,457,2,3,3,2,5,3,MS,0.9,0,0,0,0,0,0,Northwestern University,Civil Engineering
+1808,458,4,5,2,2,1,5,MS,1.0,0,0,0,0,0,0,University of Chicago,The MA Program in the Social Sciences
+1811,459,4,3,3,4,5,5,MS,1.0,0,0,0,0,0,0,The Pennsylvania State University,US Law
+1812,460,5,6,3,3,4,6,MS,1.0,1,0,0,1,1,0,University of California - San Diego,finance                                    
+1819,461,4,3,4,3,2,3,MS,1.0,0,0,0,0,0,0,University of Pennsylvania,MArch MAUD MDes                                    
+1825,462,5,5,3,1,2,5,MS,1.0,0,0,0,0,0,0,Johns Hopkins University,Communication                                    
+1832,463,6,5,4,3,4,5,MS,1.0,0,0,0,0,0,0,University of Illinois at Urbana-Champaign,general llm                                    
+1835,464,4,6,2,1,5,6,MS,1.0,0,0,0,0,0,0,Purdue University,Agri econ                                    
+1838,465,4,5,3,2,3,8,MS,1.0,0,0,0,0,0,0,New York University,Media，Culture and Communication                                    
+1843,466,5,6,5,3,5,5,MS,1.0,0,0,0,0,0,0,Boston University,Economic Policy                                    
+1844,467,4,7,3,4,5,7,MS,0.9,0,0,0,0,0,0,Northeastern University,Bioinformatics
+1845,468,6,4,2,4,5,4,MS,0.9,0,0,0,1,0,0,Arizona State University,Computer Science
+1847,469,4,7,2,3,2,6,MS,0.9,1,0,1,1,0,0,Cornell University,Economics and Econometrics
+1860,470,4,7,2,2,2,7,MS,1.0,0,0,0,0,0,0,Baylor College of Medicine,Driskill Graduate Program
+1861,471,4,5,3,3,3,5,MS,1.0,0,0,0,0,0,0,Rutgers University - Newark,Public Administration
+1866,472,5,5,2,3,5,5,MS,1.0,0,0,0,0,0,0,Boston University,Foreign Language Teacher Education
+1869,473,4,6,3,2,5,6,MS,1.0,0,0,0,0,0,0,Boston University,Economics and Econometrics
+1870,474,6,6,5,3,4,6,MS,0.9,0,0,0,0,0,0,University of Illinois at Urbana-Champaign,Master of Science in Policy Economics
+1874,475,4,6,3,3,2,6,MS,1.0,0,0,0,0,0,0,Columbia University in the City of New York,Finance                       
+1880,476,5,5,5,2,2,5,MS,0.9,0,0,0,0,0,0,Johns Hopkins University,School Counseling                                    
+1883,477,2,8,3,1,3,5,MS,0.9,0,0,0,0,0,0,New York University,The Master of Science in Public Policy & Management
+1891,478,1,3,4,3,1,3,MS,0.9,0,0,1,0,0,0,University College London,city and regional planning                                    
+1905,479,6,2,3,3,1,2,MS,1.0,1,1,0,1,0,0,National University of Singapore,Commerce-Marketing                                    
+1913,480,6,3,2,2,3,3,MS,1.0,0,0,0,0,0,0,The University of New South Wales,Materials Engineering
+1914,481,6,3,5,4,4,3,MS,1.0,0,0,0,0,0,0,The University of Auckland,Civil Engineering
+1922,482,2,5,4,1,3,5,MS,0.9,0,0,0,0,0,0,The University of Queensland,Audiology
+1923,483,5,4,3,1,3,4,MS,1.0,0,0,0,0,0,0,Australian National University,Computer Science
+1924,484,5,5,5,4,3,5,MS,1.0,0,0,0,0,0,0,The University of Sydney,education psychology                                    
+1927,485,6,6,4,3,3,2,MS,1.0,0,0,0,0,0,0,The University of Sydney,Marketing
+1932,486,2,4,3,4,2,4,MS,1.0,0,0,0,0,0,0,Nanyang Technological University,Artificial Intelligence
+1935,487,5,5,4,3,3,8,MS,1.0,1,0,0,0,0,1,The University of Sydney,Master of Art Curating，Master of Museum and Heritage Studies                                    
+1936,488,5,5,5,1,3,5,MS,1.0,0,0,0,0,0,0,The University of New South Wales,"Linguistics, Interpretation, and Translation"
+1937,489,4,4,3,4,3,4,MS,1.0,1,0,1,1,0,1,Australian National University,Computer Science
+1938,490,5,3,3,3,5,3,MS,1.0,0,0,0,0,0,0,Royal Melbourne Institute of Technology,Master of Architecture                                    
+1939,491,2,5,3,1,5,5,MS,1.0,0,0,0,0,0,0,Victoria University of Wellington,Sociology
+1940,492,6,5,3,2,4,8,MS,1.0,0,0,0,0,0,0,Monash University,Film Studies                                    
+1946,493,6,1,4,4,4,7,MS,1.0,0,0,0,0,0,0,The University of Auckland,Chemistry
+1947,494,6,5,5,2,1,5,MS,1.0,0,0,0,0,0,0,National University of Singapore,English Language Studies
+1949,495,6,3,5,4,3,3,MS,1.0,0,0,0,0,0,0,The University of Melbourne,Architecture
+1954,496,6,4,3,3,3,4,MS,0.9,0,0,0,0,0,0,The University of Sydney,Information Technology                                    
+1966,497,4,5,4,4,3,5,MS,0.9,1,0,0,0,0,0,Australian National University,Speech and Language Processing                                    
+1972,498,6,1,5,4,4,7,MS,1.0,0,0,0,0,0,0,Monash University,Master of Biomedical and Health Science                                    
+1973,499,4,3,4,3,5,4,MS,0.9,0,0,0,0,0,0,University Leiden,Computer Science
+1974,500,4,4,5,2,3,5,MS,1.0,0,0,0,0,0,0,The University of Queensland,"Linguistics, Interpretation, and Translation"
+1975,501,5,4,4,3,3,4,MS,0.9,0,0,0,0,0,0,Australian National University,Computer Science
+1980,502,6,4,2,3,4,4,MS,1.0,0,0,0,0,0,0,The University of Auckland,Electrical and Electronics Engineering
+1981,503,6,3,4,4,3,3,MS,1.0,0,0,0,0,0,0,The University of Queensland,nanomaterials                         
+1982,504,6,5,3,2,3,5,MS,1.0,0,1,0,0,0,0,Australian National University,International Relations and National Security Studies
+1983,505,6,7,2,4,3,7,MS,1.0,0,0,0,0,0,0,The University of Melbourne,Mathematics and Statistics                                
+1984,506,5,5,3,4,3,8,MS,0.9,0,0,0,0,0,0,The University of Melbourne,Master of Global Media Communication                                    
+1985,507,6,4,4,3,4,8,MS,0.9,0,0,0,0,0,0,The University of Auckland,"Media,Film,Television                                    "
+1986,508,4,6,4,2,4,6,MS,0.9,0,1,0,0,0,0,The University of Auckland,Accounting
+1988,509,6,5,4,2,3,8,MS,1.0,0,0,0,0,0,0,The University of Sydney,master of speech pathology                                    
+1989,510,6,3,5,3,3,3,MS,1.0,0,0,0,0,0,0,The University of New South Wales,Environmental Engineering
+1991,511,4,5,4,3,3,2,MS,1.0,0,0,0,0,0,0,The University of Melbourne,Marketing Communications                                    
+1992,512,6,4,4,3,3,4,MS,1.0,0,0,0,0,0,0,The University of Melbourne,Computer Science
+1995,513,6,3,3,4,4,3,MS,1.0,0,0,0,0,0,0,The University of Auckland,Logistics and Supply Chain Management
+1996,514,4,3,4,3,3,2,MS,1.0,0,0,0,0,0,1,The University of New South Wales,master of commerce(extention)                                    
+1998,515,4,3,4,3,3,4,MS,0.9,0,0,0,0,0,0,Australian National University,Master of Computing                                    
+1999,516,4,5,2,2,3,4,MS,1.0,0,0,0,0,0,0,The University of Melbourne,Information Technology
+2002,517,5,3,4,3,3,3,MS,0.9,0,0,0,0,0,0,The University of Melbourne,Landscape Architecture
+2003,518,6,2,4,3,4,2,MS,1.0,0,0,0,0,0,0,The University of Auckland,Business Administration and Management
+2004,519,4,4,4,4,3,4,MS,0.9,0,0,0,0,0,0,The University of Sydney,Electrical and Electronics Engineering
+2005,520,4,3,3,3,3,3,MS,0.9,1,0,0,1,0,1,The University of New South Wales,"Urban, Community and Regional Planning"
+2007,521,2,5,5,3,3,5,MS,1.0,0,0,0,0,0,0,The University of Queensland,Educational Research
+2008,522,5,4,3,4,3,4,MS,0.9,0,0,0,0,0,0,The University of New South Wales,Information Technology
+2009,523,5,6,4,4,3,6,MS,1.0,0,0,0,0,0,0,The University of Queensland,International Economics and Finance                                   
+2010,524,4,5,3,3,3,8,MS,0.9,0,0,0,0,0,0,The University of Sydney,Social Psychology
+2013,525,4,3,4,3,3,3,MS,0.9,0,0,0,0,0,0,The University of Sydney,Professional Engineering (Aerospace)                                    
+2014,526,5,7,3,3,3,7,MS,1.0,0,0,1,0,0,0,The University of Queensland,Physics
+2015,527,6,3,5,3,3,5,MS,1.0,0,0,0,0,0,0,The University of Melbourne,Law
+2016,528,6,6,3,4,3,5,MS,1.0,0,0,0,0,0,0,Australian National University,Womens Studies
+2019,529,4,3,4,4,3,3,MS,1.0,0,0,0,0,0,0,The University of Melbourne,Environmental Engineering
+2020,530,4,7,5,4,3,2,MS,1.0,0,0,0,0,0,0,The University of Sydney,Master of Commerce                                    
+2023,531,5,3,3,3,3,4,MS,0.9,0,0,1,1,0,0,The University of Melbourne,Information Technology
+2029,532,6,3,4,4,3,3,MS,1.0,0,0,0,0,0,0,The University of Sydney,Urban Design                                    
+2034,533,6,5,5,2,3,5,MS,1.0,1,0,0,0,0,0,The University of Sydney,Juris Doctor                                    
+2035,534,4,5,3,1,5,5,MS,1.0,0,0,0,0,0,0,Deakin University,master of communication                                    
+2038,535,2,5,3,1,2,5,MS,0.9,1,0,0,0,0,0,The University of Hong Kong,juris doctor                                    
+2040,536,5,7,3,4,3,3,MS,0.9,0,0,0,0,0,0,The University of New South Wales,Master of Materials Technology                                    
+2042,537,4,4,3,3,1,7,MS,1.0,1,0,1,1,0,1,National University of Singapore,Statistics
+2047,538,4,5,2,4,3,8,MS,1.0,0,0,0,0,0,0,The University of Sydney,Human Resources Management
+2048,539,6,5,3,3,3,5,MS,1.0,0,0,0,0,0,0,The University of Sydney,Chinese Language and Literature
+2050,540,5,6,3,2,3,5,MS,1.0,0,0,0,0,0,0,The University of Sydney,English
+2058,541,5,5,4,2,2,5,MS,1.0,1,0,0,1,1,1,University of Edinburgh,Corporate and Commercial Law                                    
+2061,542,6,5,4,4,3,5,MS,1.0,0,0,0,0,0,0,The University of Sydney,Strategic public relations                                   
+2062,543,4,5,3,3,3,5,MS,1.0,1,0,0,0,0,1,The University of Melbourne,Journalism
+2063,544,6,5,4,4,3,5,MS,0.9,0,1,0,0,0,0,The University of Melbourne,Master of laws                                    
+2065,545,2,7,2,2,2,1,MS,0.9,0,0,0,0,0,0,Karolinska Institute,Biomedicine                                    
+2067,546,4,7,3,4,3,4,MS,1.0,0,0,0,0,0,0,The University of Melbourne,Electrical and Electronics Engineering
+2068,547,6,3,5,5,5,3,MS,0.9,0,0,0,0,0,0,Massey University,matster of construction                                    
+2069,548,4,5,3,2,5,8,MS,1.0,0,0,0,0,0,0,Royal Melbourne Institute of Technology,Communication and Media Studies
+2070,549,4,7,5,5,3,7,MS,1.0,0,0,1,0,0,0,Australian National University,Chemistry
+2071,550,4,3,3,3,3,4,MS,0.9,0,0,0,0,0,0,Australian National University,Electrical and Computer Engineering
+2072,551,5,3,3,2,3,4,MS,1.0,0,0,0,0,0,0,The University of New South Wales,Computer Science
+2073,552,4,3,2,4,3,3,MS,1.0,0,0,0,0,0,0,The University of New South Wales,Mechanical Engineering
+2074,553,2,4,2,2,3,4,MS,1.0,0,0,1,0,0,0,The University of New South Wales,Computer Science and Eng                                    
+2075,554,6,3,4,4,3,3,MS,1.0,0,0,0,0,0,0,The University of Melbourne,architecture                                    
+2076,555,4,5,3,3,3,5,MS,1.0,0,0,0,0,0,0,The University of Melbourne,arts and cultural management                                    
+2077,556,5,6,2,1,3,6,MS,0.9,0,0,0,0,0,0,Australian National University,Accounting
+2083,557,4,4,4,4,3,4,MS,1.0,0,0,0,0,0,0,Australian National University,Master of computing                                    
+2084,558,6,1,4,4,4,5,MS,1.0,0,0,0,0,0,0,The University of Western Australia,Master of Public Health                                    
+2085,559,4,5,5,2,3,5,MS,0.9,0,1,0,0,0,0,The University of Melbourne,Law
+2089,560,4,7,3,3,3,7,MS,1.0,0,0,0,1,0,0,The University of Melbourne,Statistics
+2090,561,4,4,4,3,4,4,MS,1.0,0,0,0,0,0,0,The University of Auckland,Bioengineering and Biomedical Engineering
+2092,562,6,3,3,4,3,3,MS,0.9,0,0,0,0,0,0,The University of Melbourne,Sustainable urban development                                
+2093,563,4,3,4,4,3,3,MS,1.0,0,0,0,0,0,0,The University of Melbourne,Mechanical Engineering
+2094,564,4,4,5,4,3,6,MS,1.0,0,0,0,0,0,0,The University of Sydney,Finance               
+2095,565,6,1,5,4,3,1,MS,1.0,0,0,0,0,0,0,The University of Melbourne,public health                                    
+2098,566,5,5,3,3,3,5,MS,1.0,0,0,0,0,0,0,The University of Sydney,Juris Doctor                                    
+2101,567,4,7,5,3,5,8,MS,1.0,0,0,0,0,0,0,University of Canterbury,Forestry
+2102,568,4,5,4,2,3,5,MS,1.0,0,0,0,0,0,0,The University of New South Wales,Law
+2103,569,6,3,4,4,4,2,MS,1.0,0,0,0,0,0,0,Monash University,International Business
+2104,570,5,2,5,4,3,4,MS,1.0,0,0,0,0,0,0,Australian National University,Business information system                                    
+2105,571,6,3,3,4,4,3,MS,0.9,1,0,0,0,0,0,The University of Auckland,Construction Management
+2106,572,5,4,3,2,3,4,MS,1.0,0,0,0,0,0,0,The University of Melbourne,Information Technology
+2108,573,4,4,3,4,3,4,MS,0.9,0,0,0,1,0,0,The University of Melbourne,Electrical and Computer Engineering                                    
+2111,574,6,3,4,3,3,6,MS,1.0,0,0,0,0,0,0,The University of Sydney,Economics and Econometrics
+2115,575,6,5,5,3,3,2,MS,1.0,0,0,0,0,0,0,The University of Sydney,Master of Banking and Finance                                    
+2117,576,5,6,3,2,3,4,MS,1.0,0,0,0,0,0,0,The University of Melbourne,Information Technology
+2118,577,4,3,4,3,3,4,MS,0.9,0,0,0,0,0,0,Australian National University,Computer Science
+2122,578,1,6,4,1,3,2,MS,1.0,0,0,0,0,0,0,Australian National University,Finance
+2123,579,6,2,2,3,3,2,MS,1.0,0,0,0,0,0,0,The University of Sydney,Finance
+2125,580,5,6,2,2,3,4,MS,1.0,0,0,0,0,0,0,The University of Melbourne,Management Information Systems
+2126,581,4,6,3,2,3,6,MS,1.0,0,0,0,0,0,0,The University of Melbourne,Accounting
+2128,582,6,8,5,3,3,5,MS,1.0,0,0,0,0,0,0,The University of Sydney,Education (sports coaching)                                    
+2129,583,2,7,5,2,4,7,MS,1.0,0,0,0,0,0,0,The University of Auckland,Food Science
+2130,584,6,7,4,2,5,5,MS,1.0,0,0,0,0,0,0,The University of Adelaide,Viticulture and Oenology                                    
+2133,585,2,6,4,3,3,6,MS,0.9,0,0,0,0,1,0,Duke University,Economics and Econometrics
+2139,586,6,5,3,2,3,5,MS,1.0,0,0,0,0,0,0,The University of Melbourne,LLM                                    
+2141,587,5,6,5,4,3,2,MS,1.0,0,0,0,0,0,0,The University of New South Wales,Finance
+2143,588,6,5,3,3,3,4,MS,1.0,0,0,0,0,0,0,The University of Sydney,Management Information Systems
+2145,589,4,7,3,4,3,7,MS,0.9,0,0,1,0,0,0,The University of Sydney,Mathematics
+2146,590,5,8,2,4,3,2,MS,1.0,0,0,0,0,0,0,Australian National University,master of commerce                                    
+2148,591,4,6,4,3,3,2,MS,1.0,0,0,0,0,0,0,Australian National University,Master of Commerce (Advanced)                                    
