@@ -59,11 +59,11 @@ Our project team hopes that with our solution, the students will be able to find
 >
 > $ pip install -r requirements
 >
+> Data base import(refer to Database Deployment.pdf)
+>
 > run server
 >
 > $ run server localhost:8088
->
-> Data base import
 
 
 
