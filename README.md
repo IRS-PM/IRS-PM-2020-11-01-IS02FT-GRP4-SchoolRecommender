@@ -134,12 +134,8 @@ Our project team hopes that with our solution, the students will be able to find
 14. In “For more info” panel there are 3 buttons. Clicking first one can access to the wikipedia of the school; clicking second one will navigate you to the homepage of this school. Click last one will google the school’s information for you.
 
 <img src="./img/guide12.png"
-     style="float: left; margin-right: 0px;" />
-
-<img src="./img/guide13.png"
-     style="float: left; margin-right: 0px;" />
-
-<img src="./img/guide14.png"
+     style="float: left; margin-right: 0px;" /><img src="./img/guide13.png"
+     style="float: left; margin-right: 0px;" /><img src="./img/guide14.png"
      style="float: left; margin-right: 0px;" />
 
 ---
