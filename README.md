@@ -49,7 +49,7 @@ Our project team hopes that with our solution, the students will be able to find
 
 > Enter folder
 >
-> $ cd proj_Django
+> $ cd SystemCode/proj1Django-master/
 >
 > Install dependencies
 >
@@ -67,7 +67,7 @@ Our project team hopes that with our solution, the students will be able to find
 
 
 
-> Enter folder
+> Enter folder SystemCode/schoolRecommend/
 >
 > Start web application, click index.html
 
