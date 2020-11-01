@@ -35,7 +35,7 @@ Our project team hopes that with our solution, the students will be able to find
 
 ## SECTION 4 : VIDEO OF SYSTEM MODELLING & USE CASE DEMO
 
-[![Sudoku AI Solver](http://img.youtube.com/vi/-AiYLUjP6o8/0.jpg)](https://youtu.be/-AiYLUjP6o8 "Sudoku AI Solver")
+[![](https://res.cloudinary.com/marcomontalbano/image/upload/v1604191166/video_to_markdown/images/youtube--Sr_OFLJvYZc-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=Sr_OFLJvYZc&feature=youtu.be "")
 
 ---
 
